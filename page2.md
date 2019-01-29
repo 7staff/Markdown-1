@@ -17,5 +17,5 @@ $49 | $free | $.5
 i am not too sharp but i am **BOLD**
 *Italics are elegant*
 ~~I love italics~~
-
+___
 [Back to Page 1](https://github.com/7staff/Markdown-1/blob/master/README.md)
