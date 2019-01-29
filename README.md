@@ -8,5 +8,5 @@
 ```python
 "Python was used"
 ```
-
+___
 [Next page](https://github.com/7staff/Markdown-1/blob/master/page2.md)
