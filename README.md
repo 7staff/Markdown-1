@@ -9,3 +9,5 @@
 s = "Python was used"
 print s
 ```
+
+[Next page](https://github.com/7staff/Markdown-1/blob/master/page2.md)
